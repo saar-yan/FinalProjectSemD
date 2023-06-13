@@ -54,4 +54,3 @@ class Checkings:
         return isinstance(file_path, str)
 
 
-    # s
