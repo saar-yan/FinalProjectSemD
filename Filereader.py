@@ -28,3 +28,4 @@ class Filereader:
             raise FileNotFoundError(f"File not found: {file_path}")
 
         return valid_products
+# s

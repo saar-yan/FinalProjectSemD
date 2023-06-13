@@ -52,3 +52,6 @@ class Checkings:
     @staticmethod
     def check_file_path(file_path: str) -> bool:
         return isinstance(file_path, str)
+
+
+    # s
