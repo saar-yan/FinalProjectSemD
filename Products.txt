@@ -1,7 +1,5 @@
 ABCsdASs,ProductA,100,10.5
 DEF67890,ProductB,50,7.8
 GHI54321,ProductC,75,12.3
-JKL98765,ProductD,20,6.5
-MNO24680,ProductE,20,9.9
-
-
+JKL98765ProductD,0,6.5
+MNO24680,ProductE,10,9.9
